@@ -20,8 +20,7 @@ Sneak.nl zal voorzien worden van onderandere een volledig logo, landingpage, hoe
 
 ## Hoe gaat onze website eruit zien?
 
- [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
-
+__Voeg hier ons design in__
 
 ## Welke documenten behoren bij dit project?
 [Trello](https://trello.com/b/RTj6xR21/sneaknl)
