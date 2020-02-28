@@ -1,37 +1,5 @@
-Netflix News
-http://project.kevin-geurts.nl/public/index.php?page=homepage is een website van Kevin waar Netflix alle nieuwste info kunnen zien over Netflix en zijn series. De website is enigszins te vergelijken met de Twitter van Netflix of https://www.netflix-nederland.nl/ maar toch anders omdat deze website de nieuwste info heeft!
-
-Uniek aan dit concept is:
-Een unieke nieuws site over netflix.
-Het unieke design.
-Milestones
-In het Kwalificatiedossier voor de opleiding Mediadeveloper staan een aantal kerntaken en werkprocessen. In onderstaande tabel zie je per kerntaak en werkproces welke werkzaamheden en documenten hier bij horen. Elke opgeleverd product of document is een milestone, een belangrijke stap die nodig is bij de ontwikkeling van jouw MyBand project.
-
-kerntaken en werkprocessen
-
-Je wordt beoordeeld op de aanwezigheid en inhoud van onderstaande documenten.
-
-Fase 1: Opdracht vaststellen / Projectplan en planning / Ontwerpen & voorbereiden
-Deze fase duurt 3 weken
-
-Milestone	Status	Link	Type Document of cloudservice
-README	DONE	README.md	MarkDown
-B1-K1-W1 Debriefing	DONE	Debriefing	Markdown
-B1-K1-W2 Planning	DONE	Planning	Markdown
-B1-K1-W2 Plan van aanpak	DONE	Plan van Aanpak	Markdown of Word/RTF
-B1-K1-W2 User stories	DONE	User Stories	Markdown of Word/RTF
-B1-K1-W2 Functioneel ontwerp	TODO	FO	Linkje
-B1-K1-W2 Flowchart	DONE	Flow	Afbeelding(en) of geexporteerd uit http://draw.io
-B1-K1-W2 Urenschatting	DONE	Urenschatting	Markdown
-B1-K1-W2 Wireframes en/of Interactief prototype	DONE	[axShare]	Axshare link of link naar ander online prototype tool
-B1-K1-W2 Sfeer impressie / schermontwerpen	DONE	Design	Afbeeldingen
-Fase 2: Realiseren van de opdracht (in sprints)
-Milestone	Status	Link
-B1-K1-W2 Product backlog	DONE	Backlog
-B1-K1-W2 Sprint planning 1, 2 en 3	DONE	Trello / Trello Tips
-B1-K1-W3 Technisch Ontwerp	DONE	TO
-Fase 3: Testen en opleveren van het project
-Milestone	Status	Link
-B1-K3-W2 Link naar de live omgeving	DONE	<http://project.kevin-geurts.nl/ >
-B1-K3-W2 Gebruikersdocumentatie / instructie	DONE	Gebruikers documentatie
-B1-K3-W3 Evaluatie
+| D1-K1-W1 | Onderzoek naar product (PDF in archief) | - Je hebt de onderzoeksvragen geformuleerd. - Je hebt aantoonbaar onderzoek gedaan naar minstens 5 verschillende webshops. (Maak screenshots en leg uit) - Je hebt aantoonbaar onderzoek gedaan naar minstens 3 concurrenten die hetzelfde product verkopen. (Maak screenshots) - De conclusies die je hebt getrokken zijn een goede basis voor het project. |
+|----------|-----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| D1-K1-W1 | Onderzoek naar doelgroep (PDF)          | - Je hebt de onderzoeksvragen geformuleerd. - Je hebt (met behulp van de onderzoeksvragen) een interview met de doelgroep voorbereid. - De conclusies die je hebt getrokken zijn een goede basis voor je project. - Er is een interview gehouden met de doelgroep. (Inzicht krijgen in jullie idee) - Je kan via Youtube of vimeo het interview laten zien.  |
+|          |                                         |                                                                                                                                                                                                                                                                                                                                                              |
+|          |                                         |                                                                                                                                                                                                                                                                                                                                                              |
