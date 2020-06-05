@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<!-- ipv voornaam achternaam en datum, toevoegen van grid van 12 plaatjes met favoriete merken. -->
+	<!-- Zodat we de smaak kunnen selecteren! -->
+	<title>Sneak.NL</title>
+	<link rel="stylesheet" type="text/css" href="style/checkout.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	<style type="text/css">
+				.active{
+		border-color: rgb(86, 95, 169) !important;
+		border: 1px solid rgb(86, 95, 169);
+	}
+	</style>
+</head>
+<body>
+	<nav>
+		<ul class="nav-wrapper">
+		<li class="nav-logo"><a  href="kies_pakket.html"><img src="logo_large.png"></a></li>
+		<li class="nav-item"></li>
+		<li class="nav-item"></li>
+		<li class="nav-item"></li>
+	</ul>
+	</nav>
+<section>
+	<h2>Afrekenen</h2>
+	<p>Vul uw verzendgegevens in.</p>
+</section>
+<form action="thanks.html">
+<section class="input-double-grid">
+	<span class="label">VOORNAAM</span>
+	<span class="label">ACHTERNAAM</span>	
+	<input type="" name="firstname" class="input-flex" placeholder="Voornaam">
+	<input type="" name="lastname" class="input-flex" placeholder="Achternaam">
+</section>
+
+<!-- Voor mobiel -->
+<section class="input-single-grid">
+	<span class="label">VOORNAAM</span>	
+	<input type="" name="firstname" class="input-flex" placeholder="Voornaam">
+		<span class="label">ACHTERNAAM</span>
+	<input type="" name="lastname" class="input-flex" placeholder="Achternaam">
+</section>
+
+
+<p class="label">GEBOORTEDATUM (DD/MM/YYYY/)</p>
+	<section class="date-container">
+	<input type="" name="birthdate" class="" placeholder="DD/MM/YYYY">	
+</section>
+	<section class="input-double-grid">
+	<span class="label">EMAILADRES</span>
+	<span class="label">TELEFOONNUMMER</span>	
+	<input type="" name="email" class="input-flex" placeholder="Emailadres">
+	<input type="" name="phonenumber" class="input-flex" placeholder="Telefoonnummer">
+</section>
+	<section class="input-triple-grid">
+	<span class="label">POSTCODE</span>
+	<span class="label">HUISNUMMER</span>	
+	<span class="label">TOEVOEGING</span>
+	<input type="" name="postcode" class="input-flex" placeholder="Postcode">
+	<input type="" name="address2" class="input-flex" placeholder="Huisnummer">
+	<input type="" name="address3" class="input-flex" placeholder="Toevoeging">
+</section>
+	<section class="input-double-grid">
+	<span class="label">STRAAT</span>
+	<span class="label">WOONPLAATS</span>	
+	<input type="" name="address" class="input-flex" placeholder="Straat">
+	<input type="" name="city" class="input-flex" placeholder="Woonplaats">
+</section>
+
+<!-- Voor mobiel -->
+	<section class="input-single-grid mobile">
+	<span class="label">EMAILADRES</span>	
+	<input type="" name="email" class="input-flex" placeholder="Emailadres">
+		<span class="label">TELEFOONNUMMER</span>
+	<input type="" name="phonenumber" class="input-flex" placeholder="Telefoonnummer">
+</section>
+	<section class="input-single-grid mobile">
+	<span class="label">POSTCODE</span>
+	<input type="" name="postcode" class="input-flex" placeholder="Postcode">
+	<span class="label">HUISNUMMER</span>	
+	<input type="" name="address2" class="input-flex" placeholder="Huisnummer">
+	<span class="label">TOEVOEGING</span>
+	<input type="" name="address3" class="input-flex" placeholder="Toevoeging">
+</section>
+	<section class="input-single-grid mobile">
+	<span class="label">STRAAT</span>
+	<input type="" name="address" class="input-flex" placeholder="Straat">
+	<span class="label">WOONPLAATS</span>	
+	<input type="" name="city" class="input-flex" placeholder="Woonplaats">
+</section>
+
+<!-- Section 2 Shipping -->
+<section class="margin-top">
+
+	<p>Vul uw verzendmethode in.</p>
+</section>
+	<section class="shipping-grid shipping-box" id="shipping">
+	<img src="https://wearewuunder.com/wp-content/uploads/elementor/thumbs/Wuunder_vervoerder_PostNL-ojm24d1lj16lcp00c5mscsu1j9pl5xxp528go4c5ow.png">
+	<p class="label shipping-label-post">POSTNL</p>
+	<p class="label shipping-label-kost">&#8364; 1.99</p>
+	<p class="label shipping-label">Morgen bezorgd</p>
+</section>
+	<section class="shipping-grid shipping-box margin-top-small" id="shipping2">
+	<img src="https://wearewuunder.com/wp-content/uploads/elementor/thumbs/Wuunder_vervoerder_PostNL-ojm24d1lj16lcp00c5mscsu1j9pl5xxp528go4c5ow.png">
+	<p class="label shipping-label-post">POSTNL</p>
+	<p class="label shipping-label-freee">GRATIS</p>
+	<p class="label shipping-label">Dinsdag<br> in huis </p>
+</section>
+<section class="margin-top">
+
+	<p>Betaaldetails.</p>
+</section>
+<section class="shipping-box shipping-grid " id="payment1">
+		<img src="https://www.wempewempe.nl/wp-content/uploads/2017/08/iDeal-logo.png" >
+	<p class="label shipping-label">IDEAL</p>
+	<p class="label shipping-label-free">GRATIS</p>
+	<p class="label shipping-label"></p>
+</section>
+<section class="shipping-box shipping-grid margin-top-small" id="payment2">
+		<img src="https://cdn.worldvectorlogo.com/logos/paypal.svg">
+	<p class="label shipping-label">PAYPAL</p>
+	<p class="label shipping-label-free">GRATIS</p>
+	<p class="label shipping-label"></p>
+</section>
+<section>
+	<p class="terms margin-top">Door het klikken van betalen gaat u akkoord met onze algemene voorwaarden en privacy verklaring.</p>
+	<button class="cart-button" type="submit" >BETALEN</button>
+	<button class="cart-cancel">ANNULEER</button>
+</section>
+</form>
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script type="text/javascript">
+
+	 $(document).ready(function() {  
+    $("section[id^='payment']").on('click', function() {
+    $("section[id^='payment']").removeClass("active");
+   
+       $(this).addClass('active');
+    });
+ });
+
+	 $(document).ready(function() {  
+    $("section[id^='shipping']").on('click', function() {
+    $("section[id^='shipping']").removeClass("active");
+   
+       $(this).addClass('active');
+    });
+ });
+</script>
+
+<footer>
+	<ul>
+		<li>Over ons |</li>
+		<li> Algemene voorwaarden |</li>
+		<li> Privacyverklaring |</li>
+		<li> Copyright</li>
+	</ul>
+</footer>
+<script type="text/javascript"></script>
+
+</body>
+
+</html>
