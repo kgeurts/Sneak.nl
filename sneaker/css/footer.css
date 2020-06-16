@@ -1,0 +1,40 @@
+/* CSS FOOTER*/
+	footer{
+margin: auto;
+height: 50px;
+text-align: center;
+	}
+	ul{
+		margin: 0em;
+		padding: 0px;
+		margin-bottom: 1em;
+	}
+	.outer-section.footer{
+		height: 1.5%;
+	}
+	.outer-box.footer{
+		height: 80px;
+	}
+	li{
+		margin-left: 5px;
+		font-size: 25px;
+		list-style: none;
+	}
+	footer a{
+		text-decoration: none;
+		 color: rgb(86, 95, 169);
+	}
+		footer li {
+		display: inline;
+		 
+	}
+	footer ul {
+		 background: rgb(232, 229, 226);
+		margin: 0;
+		padding-left: 12%;
+		font-size: 16px;
+		padding-right: 12%;
+		padding-bottom: 2%;
+		padding-top: 2%;
+	}
+	/*EINDE FOOTER CSS*/
