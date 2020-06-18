@@ -1,6 +1,6 @@
 # Sneak.nl
 
-DIT IS DE TIJDELIJKE LIVE VERSIE: http://27266.hosts2.ma-cloud.nl/bewijzenmap/sneaker/site/kies_pakket.html
+LIVE VERSIE: https://project.kevin-geurts.nl/home.html
 
 Sneak.nl is de makkelijkste manier om de schoenen te krijgen die jij nodig hebt, direct geleverd tot aan jouw deur. Of het nu voor jezelf is, je vader of zelfs een vere kennis. Jij bepaald hoeveel schoenen je per jaar nodig hebt, welke maat en zelfs welke style's!
 
