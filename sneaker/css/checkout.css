@@ -7,6 +7,7 @@ width: 100%;
   background-attachment: fixed;
   background-position: bottom; 
 }
+
 /* CSS FOOTER*/
 	footer{
 margin: auto;
@@ -451,3 +452,18 @@ p .label {
 
 
         }
+/*Navigatie CSS */
+nav img{
+	max-width: 100%;
+}
+nav ul{
+	text-align: center;
+}
+nav  .nav-item{
+	display: inline-block;
+	font-size: 20px;
+	text-decoration: underline;
+}
+nav a{
+	color: black;
+}
