@@ -551,3 +551,18 @@ margin: 0em 0em 10em 0em;
                 padding-bottom: 2%;
             }
 }}
+/*Navigatie CSS */
+nav img{
+    max-width: 100%;
+}
+nav ul{
+    text-align: center;
+}
+nav  .nav-item{
+    display: inline-block;
+    font-size: 20px;
+    text-decoration: underline;
+}
+nav a{
+    color: black;
+}
