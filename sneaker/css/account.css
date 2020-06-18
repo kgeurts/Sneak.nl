@@ -1,0 +1,165 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Greycliff, "Helvetica Neue", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", sans-serif;
+    
+}
+
+
+.header-img img {
+height: 45px;
+width: auto;
+margin-left: auto;
+margin-right: auto;
+display: block;
+margin-top: 2%;
+
+}
+
+.welkom {
+    background-color: rgb(243, 137, 123);
+    width: 100vw;
+    height: 300px;
+}
+
+.titel {
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+.geen {
+    color: rgb(228, 62, 39);
+    font-weight: bold;
+    font-size: 30px;
+   padding-top: 17px;
+   margin: 0;
+}
+
+.welkom_container p {
+    color: rgb(228, 62, 39);
+    font-weight: 400;
+    padding: 0;
+    margin: 0;
+    font-size: 20px;
+    }
+
+    .welkom_container {
+        padding-left: 15px;
+        padding-top: 4px;
+    }
+
+    .persoon  {
+        height: 200px;
+        width: auto;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+    }
+
+    a {
+        text-decoration: none; 
+    }
+  
+ .link p {
+    margin-left: 10px;
+}
+
+footer {
+    margin: 0;
+    margin-top: 40px;
+    
+}
+
+footer li {
+    display: inline;
+    margin-right: 20px;
+     
+}
+ 
+
+
+.membership-selector {
+    box-shadow: rgba(0, 0, 0, 0.07) 0px 2px 4px;
+    margin-top: 1em !important;
+    box-sizing: border-box;
+    text-align: center;
+    display: grid;
+    -webkit-box-align: center;
+    align-items: center;
+    width: auto;
+    cursor: default;
+    border-radius: 0.25rem;
+    background: rgb(255, 255, 255);
+    margin: 0px;
+    outline: none;
+    text-decoration: none;
+    padding: 1.6875rem 0.875rem 1.875rem;
+    border-width: 2px;
+    border-style: solid;
+    border-image: initial;
+    transition: border-color 0.2s ease-out 0s;
+    border-color: rgb(232, 229, 226);
+}
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 2400px) {
+
+    body{
+ 
+        padding: 0%;
+        margin: 0%;
+    }
+    .titel {
+        font-size: 40px;
+    }
+    .geen {
+        font-size: 40px;
+    }
+    .welkom_container p {
+        font-size: 30px;
+    }
+    .membership-selector {
+        width: 300px;
+        margin-left: 40px;
+    }
+
+    footer{
+        padding-top: 150px;
+        margin: auto;
+        height: 50px;
+        text-align: center;
+            }
+            ul{
+                margin: 0em;
+                padding: 0px;
+                margin-bottom: 1em;
+            }
+            li{
+                margin-left: 5px;
+                font-size: 25px;
+                list-style: none;
+            }
+            footer a{
+                text-decoration: none;
+                 color: rgb(86, 95, 169);
+            }
+
+            .link a {
+                margin-left: 30px;
+            }
+
+}
+/*Navigatie CSS */
+nav img{
+    max-width: 100%;
+}
+nav ul{
+    text-align: center;
+}
+nav  .nav-item{
+    display: inline-block;
+    font-size: 20px;
+    text-decoration: underline;
+}
+nav a{
+    color: black;
+}
