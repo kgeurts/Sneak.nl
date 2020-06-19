@@ -27,7 +27,7 @@ __Voeg hier ons design in__
 ## Welke documenten behoren bij dit project?
 [Trello](https://trello.com/b/RTj6xR21/sneaknl)
 
-[Wireframes:]()
+## Wireframes
 
 [Home](https://xd.adobe.com/view/3572b857-6880-46db-6dbd-f350931205e3-4343/)
 
@@ -40,3 +40,7 @@ __Voeg hier ons design in__
 [About](https://xd.adobe.com/view/43af05dc-b3df-40be-526b-4b906f047c87-359e/)
 
 [Terms of service](https://xd.adobe.com/view/878c7cbd-616b-4e6a-4707-7f55df9726b7-f1bd/)
+
+## Visueel ontwerp
+
+
