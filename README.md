@@ -16,9 +16,35 @@ Sneak.nl zal voorzien worden van onderandere een volledig logo, landingpage, hoe
 
 ## Welke werkprocessen en criteria moet dit project aan voldoen?
 
-**Voeg hier alle werkprocessen in.**
+**D1-K1-W1	Onderzoek naar product (PDF in archief)**
+Je hebt onderzoeksvragen geformuleerd.Je hebt aantoonbaar onderzoek gedaan naar minstens 5 verschillende webshops. (maak screenshots en leg uit)Je hebt aantoonbaar onderzoek gedaan naar minstens 3 concurrenten die hetzelfde product verkopen. (maak screenshots)De conclusies die je hebt getrokken zijn een goede basis voor het project.
 
+**D1-K1-W1	Onderzoek naar doelgroep (PDF)**
+Je hebt onderzoeksvragen geformuleerd.Je hebt (met behulp van jouw onderzoeksvragen) een interview met de doelgroep voorbereid.De conclusies die je hebt getrokken zijn een goede basis voor het project.Er is een interview gehouden met de doelgroep. (inzicht krijgen in jullie idee)Je kan via een video (link naar Youtube of Vimeo) het interview laten zien.
 
+**D1-K1-W1	Taken Plannen (Trello)**
+In Trello staan alle taken in beeldTaken zijn verdeeld tussen elkaarTaken worden iedere week bijgehouden
+
+**D1-K1-W1	Styleboard (PDF)**
+Het Styleboard beeld de sfeer uit van de websiteHet styleboard bevat alle benodigde elementen die uit de Trello taken zijn gekomen
+
+**D1-K1-W1	Wireframes (Link Adobe XD + video)**
+De wireframes zijn op ware grootte gemaakt voor 2 schermen; mobiel en desktop.Er is een grid-systeem gebruikt met breekpunten om responsive te zijn.Alle elementen uit de Trello taken zijn terug te vinden.Je hebt een video gemaakt waar je zelf door je wireframes heen klikt en alle functionaliteiten laat zien.
+
+**D1-K1-W1	Visueel Ontwerp (Link Adobe XD + video)**
+Alle pagina’s zijn uitgewerkt voor 2 schermen; mobiel en desktop.“Hoe werkt het” paginaVerzend en retourinformatieMogelijkheid tot vragen stellenProductoverzicht paginaProductdetail paginaVolledige bestelproces(minimaal)Drie keuzemomenten (bijv. frequentie, extra toevoegingen of grootte van het abonnement).Aanmelden of loginBezorging plannenBetalen (iDEAL, creditcard, automatisch afschrijven, etc. )Het visueel ontwerp is gebaseerd op het functioneel ontwerp.Al het voorbeeldmateriaal (tekst, beeld en video) heeft een passende uitstraling, dus geen Lorem Ipsum tekst, maar relevante tekst.Je hebt een video gemaakt waar je zelf door je design heen klikt en alle functionaliteiten laat zien.
+
+**D1-K1-W1	Logo / beeldmerk (JPG, PNG of PDF)**
+Het logo / beeldmerk past bij de webshop.Het logo / beeldmerk is consequent doorgevoerd.
+
+**D1-K1-W2	Prototype Online URL + alle bestanden online prototype in map**
+Het prototype is gemaakt in HTML5/CSS3/JavaScriptHet prototype is responsive en geschikt voor mobiel en desktop.Het prototype geeft het eindproduct weer.Het prototype staat online.Afbeeldingen zijn kwalitatief scherp, maar zo gecomprimeerd dat deze weinig KB’s hebben. (SEO friendly)Het prototype is gerealiseerd aan de hand van het gemaakte visuele ontwerp en dus ook VOLLEDIG.Het prototype is code gevalideerd en heeft een validatierapport.
+
+**D1-K1-W2	Testen (video’s van usertests)**
+Het prototype is aantoonbaar meerdere keren getest met de doelgroep en daarna aangepast.Verslag van video met conclusieDe verbeterde versies staan online.
+
+**D1-K1-W2	Archiveren. Github, Trello & Screenrecording**
+Github screenshotsTrello screenshotsWebsite mappenstructuur screenshots. Laat zien dat alle plaatjes + mappen juiste naam hebben en goed formaat zijn voor web. (geen plaatjes van 1mb enzo) Er is een screenrecording van jouw online website gemaakt wat alle functionaliteiten laat zien.
 
 ## Hoe gaat onze website eruit zien?
 
