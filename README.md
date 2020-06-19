@@ -48,7 +48,7 @@ Github screenshotsTrello screenshotsWebsite mappenstructuur screenshots. Laat zi
 
 ## Hoe gaat onze website eruit zien?
 
-__Voeg hier ons design in__
+[Bekijk ons design](https://xd.adobe.com/view/24f438bb-91ca-45d3-42e1-2790a9afc2c4-52c5/)
 
 ## Welke documenten behoren bij dit project?
 [Trello](https://trello.com/b/RTj6xR21/sneaknl)
@@ -71,4 +71,5 @@ __Voeg hier ons design in__
 
 ## Visueel ontwerp
 
+[Bekijk ons design](https://xd.adobe.com/view/24f438bb-91ca-45d3-42e1-2790a9afc2c4-52c5/)
 
