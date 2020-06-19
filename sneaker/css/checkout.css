@@ -467,3 +467,31 @@ nav  .nav-item{
 nav a{
 	color: black;
 }
+/*Footer */
+.how-to-full{
+	width: 100vw;
+    position: relative;
+    left: calc(-50vw + 50%);
+}
+.how-to-full-inner{
+	width: 100vw;
+    position: relative;
+    left: calc(-50vw + 50%);
+    background: rgb(232, 229, 226);
+    padding-bottom: 10px;
+}
+.svg-box-footer{
+    margin-bottom: -12px;
+}
+footer ul{
+	display: inline-flex;
+}
+/* Responsive */
+@media only screen and  (max-device-width : 600px) {
+.footer-first-border{
+	display: none;
+}
+.svg-box-footer{
+    margin-bottom: -12px;
+}
+}

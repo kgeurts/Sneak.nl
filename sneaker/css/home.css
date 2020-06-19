@@ -116,7 +116,6 @@ color: rgb(86, 95, 169);
 }
 .form-box{
 	padding-top: 40px;
-	margin: 2.5%;
 	padding-bottom: 40px;
 	max-width: 100%;
 	width: 768px;
@@ -152,6 +151,10 @@ button{
     border-style: none;
     padding: 15px 30px;
 }
+/*Footer*/
+.svg-box-footer{
+    margin-bottom: -5px;
+}
 /* Responsive */
 @media only screen and  (max-device-width : 600px) {
 .how-to-grid{
@@ -160,6 +163,9 @@ button{
 }
 .svg-box{
 	margin-top: -5px;
+}
+.form-box{
+        margin: 2.5%;
 }
 label{
     display: block; 
@@ -172,5 +178,8 @@ label{
     min-height: 40px; 
     height: auto !important; 
     height: 40px; 
+}
+.footer-first-border{
+    display: none;
 }
 }
