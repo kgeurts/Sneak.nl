@@ -71,5 +71,5 @@ Github screenshotsTrello screenshotsWebsite mappenstructuur screenshots. Laat zi
 
 ## Visueel ontwerp
 
-[Bekijk ons design](https://xd.adobe.com/view/24f438bb-91ca-45d3-42e1-2790a9afc2c4-52c5/)
+[Visueel ontwerp](https://xd.adobe.com/view/24f438bb-91ca-45d3-42e1-2790a9afc2c4-52c5/)
 
