@@ -472,6 +472,7 @@ nav a{
 	width: 100vw;
     position: relative;
     left: calc(-50vw + 50%);
+    margin-top: 100px;
 }
 .how-to-full-inner{
 	width: 100vw;
