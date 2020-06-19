@@ -30,8 +30,13 @@ __Voeg hier ons design in__
 [Wireframes:]()
 
 [Home](https://xd.adobe.com/view/3572b857-6880-46db-6dbd-f350931205e3-4343/)
+
 [Checkout](https://xd.adobe.com/view/c04ec2a9-dddd-446f-62ba-8b21f5c25616-b67f/)
+
 [Login & Aamelden](https://xd.adobe.com/view/29c8d38d-f9d4-4ef8-6d7a-5d09a7dcf118-5ff9/)
+
 [Pakket keuze](https://xd.adobe.com/view/e5d3ff7f-a674-406b-6d64-d906a8985b7b-93e2/)
+
 [About](https://xd.adobe.com/view/43af05dc-b3df-40be-526b-4b906f047c87-359e/)
+
 [Terms of service](https://xd.adobe.com/view/878c7cbd-616b-4e6a-4707-7f55df9726b7-f1bd/)
